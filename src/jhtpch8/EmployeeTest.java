@@ -1,4 +1,4 @@
-// Fig. 8.9: EmployeeTest.java
+// 01 Fig. 8.9: EmployeeTest.java 
 // Composition demonstration.
 package jhtpch8;
 public class EmployeeTest
